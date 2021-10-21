@@ -1,0 +1,23 @@
+/*
+Theme Name: wordpresstheme
+Theme URI: https://tschaki.com
+Author: tschaki.com
+Author URI: http://tschaki.com/
+Description: Empty theme project for your new stunnig Wordpress Theme!
+Tags: accessibility-ready, one-column, two-columns, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.8
+Requires PHP: 7.0
+Text Domain: wordpresstheme
+*/
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
